@@ -1,6 +1,8 @@
 #### http://blog.matt-swain.com/post/25650072381/a-lightweight-xmp-parser-for-extracting-pdf
 #### Matt Swain
 ##### A lightweight XMP parser for extracting PDF metadata in Python
+
+### OUTSTANDING BEAUTIFUL CODE BUT PYTHON 3 IS NOT SUPPORTED
 ```You can install PDFMiner by downloading the source, https://github.com/euske/pdfminer/ then doing: ```
         cd pdfminer
         make cmap
